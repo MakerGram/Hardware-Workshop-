@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'MG Hardware Workshop',
   tagline: 'Electronics',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'http://legal.makergram.com/',
   baseUrl: '/',
   trailingSlash: false,
   onBrokenLinks: 'throw',
